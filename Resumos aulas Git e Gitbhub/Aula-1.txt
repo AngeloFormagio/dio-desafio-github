@@ -1,0 +1,28 @@
+# Aula 1 
+
+
+# O que é versionamento de código?
+
+Versionamento de código se trata do gerenciamento de mudanças em códigos e Scipts, durante o desenvolvimento de uma aplicação tecnológica, correções e novas implementações são criadas diariamente.
+
+
+# Sistema de controle de versão
+
+- Registra o histórico detalhado de atualizações de um arquivo;
+- gerencia quais foram as alterações, a data, autor etc;
+- Organização, controle e segurança;
+
+### Sistema de controle de versão centralizado.
+- CVS
+- Subversion
+
+Nesse tipo de SCV temos apenas um servidor que contém todos os arquivos do controle de versão.
+Case acabe ficando fora do ar ou ocorra corrompimento de arquivos se nao existir um backup você pode acabar perdendo todo o seu projeto.
+
+
+### Sistema de controle de versão distribuido.
+- Git
+- Mercurial
+
+Cada repositório e Duplicado localmente e permite a edição mesmo que o servidor fique fora do ar.
+cada clone e como um backup que possibilita um fluxo de trabalho mais flexível.

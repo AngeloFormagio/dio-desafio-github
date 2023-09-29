@@ -1,0 +1,22 @@
+# Aula 2
+
+# O que é Git?
+
+- É um Sistem de controle de versão distribuido e com código aberto(Oper Source).
+- Leve e rápido
+- Permite Ramificações (branching) e fusões (merging) eficientes;
+
+## git clone
+- Clona um repositório Git existente para um novo diretório(pasta) Local;
+
+## git commit
+
+-Grava alterações no repositório
+
+## git pull
+
+- "puxa" as alterações do repositório remoto para o local (busca e mescla)
+
+## git push
+
+- "empurra" alterações do repositório local para o remoto 
