@@ -1,0 +1,10 @@
+# Aula 3
+
+# O que é GitHub?
+
+- Plataforma de hospedagem de código para controle de versão com Git, e colaboração;
+
+- Utilizado Mundialmente
+
+- Ambiente colaborativo
+ 
