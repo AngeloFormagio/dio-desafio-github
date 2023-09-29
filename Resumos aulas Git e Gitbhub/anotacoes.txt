@@ -1,0 +1,7 @@
+Anotações do curso sobre controle de versão do Bootcamp DIO.
+
+Links ùteis
+
+Documentação Git - https://git-scm.com/docs/git/pt_BR
+
+Documentação GitHub - https://docs.github.com/pt
